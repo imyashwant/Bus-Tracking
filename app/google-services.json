@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "557290997101",
+    "firebase_url": "https://yashwant-578e5.firebaseio.com",
+    "project_id": "yashwant-578e5",
+    "storage_bucket": "yashwant-578e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557290997101:android:cfae1249c5bce2f3294664",
+        "android_client_info": {
+          "package_name": "com.example.dilansachintha.googlemaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557290997101-49728l3vr2lojekd86ud8igmkl580ipc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBahZsWk0Qy9t38VGmjZqNDKcg0YjndMr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557290997101-49728l3vr2lojekd86ud8igmkl580ipc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
